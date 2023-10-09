@@ -1,0 +1,26 @@
+Highlights & Device Specific Changes:
+Build type: Monthly (depends on server)
+Build Variant: Vanilla/Gapps
+Device: Realme C3/Narzo 10A - monet (RMX2020)
+Required firmware: Realme UI 2.0 C.06+
+Maintained By: Koushik Dey
+
+===== 2023/11/14 =====
+Device:
+- Initial Realme UI 2.0 firmware build
+- Upstreamed Kernel to 4.14.326
+- Switch to Pixel Charger
+- Drop unused overlays
+
+Source:
+- Make CTS/Play Integrity pass again
+- Enable media explicit indicator
+- Enable media player wave/shimmering effects
+- Reduce screenshot dismiss delay to 3 seconds
+- Remove Android build number from QS footer
+- Switch to release keys
+- Misc. Fixes & Improvements
+
+Credits:
+- LeafOS-Project
+- ArrowOS
