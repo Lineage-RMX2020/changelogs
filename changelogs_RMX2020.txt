@@ -1,0 +1,20 @@
+Highlights & Device Specific Changes:
+Build type: Monthly (depends on server)
+Build Variant: Vanilla/Gapps
+Device: Realme C3/Narzo 10A (Realme Monet)
+Required firmware: Realme UI 1.0 A33+
+Maintained By: Koushik Dey
+
+===== 2023/10/10 =====
+- Synced with latest source as (09/10 7PM-IST)
+- Merged October Security Patch
+- Upstreamed ne0liT Kernel to 4.14.326 stable
+- Added Safetynet Propties
+- Enable media explicit indicator
+- Reduce screenshot dismiss delay to 3 seconds
+- Remove Android build number from QS footer
+- Misc. Fixes & Improvements
+
+Credits:
+- LeafOS-Project
+- ArrowOS
